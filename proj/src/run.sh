@@ -1,0 +1,1 @@
+service run `pwd`/asterinix -args `pwd`
